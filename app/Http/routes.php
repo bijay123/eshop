@@ -27,5 +27,5 @@ Route::get('/admin', 'AdminController@admin')
     ->name('admin');
 
 
-    /* bijay test ffff mmmmm*/
+    /* bijay test ffff*/
 
