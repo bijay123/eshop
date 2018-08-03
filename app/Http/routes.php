@@ -26,3 +26,6 @@ Route::get('/admin', 'AdminController@admin')
     ->middleware('is_admin')    
     ->name('admin');
 
+
+    /* bijay test */
+
